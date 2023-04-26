@@ -3,10 +3,18 @@
 - 🌱 Estudando NextJs
 - 📚 Experiências em: ReactJs, TypeScript, Styled-Components
 
-
   <a href="https://github.com/jhonscarpa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonscarpa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonscarpa&layout=compact&langs_count=7&theme=dracula"/>
+<!-- <picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jhonscarpa&show_icons=true&theme=omni"
+  media="(prefers-color-scheme: omni)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jhonscarpa&show_icons=true"
+  media="(prefers-color-scheme: omni), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jhonscarpa&show_icons=true" />
+</picture> -->
 </div>
 
 <div> 
