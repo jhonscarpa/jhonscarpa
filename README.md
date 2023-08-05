@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Jhonatan Scarpa
-- 👀 Meu objetivo é aprender e adquirir experiência em front-end (reactJs com Typescript)
-- 🌱 Estudando NextJs
+- 👀 Atualmente trabalho com ReactJS e TypeScript
+- 🌱 Estudando NextJs em busca de experiência
 - 📚 Experiências em: ReactJs, TypeScript, Styled-Components
 
   <a href="https://github.com/jhonscarpa">
